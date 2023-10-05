@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @felconca
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-felconca/felconca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m felcon
+# I build things for the Web
+
+I'm a **FullStack Developer** based in Negros Occidental, Philippines. I'm passionate about design and technology development. Specializing in building online digital experiences through **Mobile & Website Development**.
+
+### 🛠 My Expertise
+[![My Skills](https://skillicons.dev/icons?i=react,angular,nodejs,laravel,mongodb,mysql)](https://skillicons.dev)
+
+### 📫 Get in touch, let's talk.
+Feel free to send me an email or schedule a call with me.
+
+[![Static Badge](https://img.shields.io/badge/Email-felcon.albaladejo@gmail.com-blue)](felcon.albaladejo@gmail.com )
+
+[![Static Badge](https://img.shields.io/badge/Phone_1-+63_950_841_4224-orange)]()
+
+[![Static Badge](https://img.shields.io/badge/Phone_2-+63_915_352_6619-orange)]()
