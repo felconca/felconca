@@ -27,3 +27,7 @@ Feel free to send me an email or schedule a call with me.
 [![Static Badge](https://img.shields.io/badge/Email-felcon.albaladejo@gmail.com-blue)](felcon.albaladejo@gmail.com )
 [![Static Badge](https://img.shields.io/badge/Phone_1-+63_950_841_4224-orange)]()
 [![Static Badge](https://img.shields.io/badge/Phone_2-+63_915_352_6619-orange)]()
+
+### :dart: Know more about me.
+Website: 
+LinkedIn:
