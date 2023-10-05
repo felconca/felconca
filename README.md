@@ -6,6 +6,7 @@ I'm a **FullStack Developer** based in Negros Occidental, Philippines. I'm passi
 
 ### 🛠 My Expertise
 [![My Skills](https://skillicons.dev/icons?i=react,angular,nodejs,laravel,mongodb,mysql)](https://skillicons.dev)
+#### :computer: Tech Stacks
 
 ### 📫 Get in touch, let's talk.
 Feel free to send me an email or schedule a call with me.
