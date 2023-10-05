@@ -12,6 +12,9 @@ I'm a **FullStack Developer** based in Negros Occidental, Philippines. I'm passi
 ![Static Badge](https://img.shields.io/badge/HTML-grey?style=for-the-badge&logo=html5)
 ![Static Badge](https://img.shields.io/badge/CSS-grey?style=for-the-badge&logo=css3)
 ![Static Badge](https://img.shields.io/badge/PHP-grey?style=for-the-badge&logo=php)
+![Static Badge](https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react)
+![Static Badge](https://img.shields.io/badge/Angular-grey?style=for-the-badge&logo=angular)
+![Static Badge](https://img.shields.io/badge/NodeJS-grey?style=for-the-badge&logo=nodedotjs)
 ![Static Badge](https://img.shields.io/badge/MySQL-gray?style=for-the-badge&logo=mysql)
 ![Static Badge](https://img.shields.io/badge/MongoDB-gray?style=for-the-badge&logo=mongodb)
 
