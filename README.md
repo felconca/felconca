@@ -7,7 +7,7 @@ I'm a **FullStack Developer** based in Negros Occidental, Philippines. I'm passi
 ### 🛠 My Expertise
 [![My Skills](https://skillicons.dev/icons?i=react,angular,nodejs,laravel,mongodb,mysql)](https://skillicons.dev)
 
-#### :computer: Tech Stacks / Skills
+### :computer: Tech Stacks / Skills
 ![Static Badge](https://img.shields.io/badge/JS-grey?style=for-the-badge&logo=javascript)
 ![Static Badge](https://img.shields.io/badge/HTML-grey?style=for-the-badge&logo=html5)
 ![Static Badge](https://img.shields.io/badge/CSS-grey?style=for-the-badge&logo=css3)
