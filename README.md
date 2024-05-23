@@ -2,7 +2,7 @@
 👋 Hi, I’m felcon
 # I build things for the Web
 
-I'm a **FullStack Developer** based in Negros Occidental, Philippines. I'm passionate about design and technology development. Specializing in building online digital experiences through **Mobile & Website Development**.
+I'm a **FullStack Developer**. I'm passionate about design and technology development. Specializing in building online digital experiences through **Mobile & Website Development**.
 
 ### :shield: My Expertise
 [![My Skills](https://skillicons.dev/icons?i=react,angular,nodejs,laravel,wordpress,mongodb,mysql)](https://skillicons.dev)
@@ -28,6 +28,3 @@ Feel free to send me an email or schedule a call with me.
 [![Static Badge](https://img.shields.io/badge/Phone_1-+63_950_841_4224-orange)]()
 [![Static Badge](https://img.shields.io/badge/Phone_2-+63_915_352_6619-orange)]()
 
-### :dart: Know more about me.
-Website: https://felcon-albaladejo.onrender.com/
-LinkedIn:
