@@ -5,7 +5,7 @@
 I'm a **FullStack Developer**. I'm passionate about design and technology development. Specializing in building online digital experiences through **Mobile & Website Development**.
 
 ### :shield: My Expertise
-[![My Skills](https://skillicons.dev/icons?i=react,angular,nodejs,laravel,wordpress,mongodb,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,angular,nodejs,laravel,wordpress,mongodb,mysql,php)](https://skillicons.dev)
 
 ### :crossed_swords: Tech Stacks / Skills
 ![Static Badge](https://img.shields.io/badge/JS-grey?style=for-the-badge&logo=javascript)
